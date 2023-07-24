@@ -1,0 +1,23 @@
+{
+    "sEmptyTable":     "ليست هناك Data متاحة في جدول",
+    "sLoadingRecords": "Loading...",
+    "sProcessing":   "Loading...",
+    "sLengthMenu":   "View _MENU_ Entries",
+    "sZeroRecords":  "لم يعثر على أية سجNoت",
+    "sInfo":         "View _START_ To _END_ From _TOTAL_ Entry",
+    "sInfoEmpty":    "يعرض 0 To 0 From 0 سجل",
+    "sInfoFiltered": "(منتقاة من مجموع _MAX_ مُدخل)",
+    "sInfoPostFix":  "",
+    "sSearch":       "",
+    "sUrl":          "",
+    "oPaginate": {
+        "sFirst":    "First",
+        "sPrevious": "Previous",
+        "sNext":     "Next",
+        "sLast":     "Last"
+    },
+    "oAria": {
+        "sSortAscending":  ": تفعيل لترتيب عمود تصاعدياً",
+        "sSortDescending": ": تفعيل لترتيب عمود تنازلياً"
+    }
+}
